@@ -44,7 +44,7 @@
 
 ---
 
-<img align="left" alt="Gabriel Lopes's Github Stats" src="(https://github-readme-stats.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true">
 
 [linkedin]: https://linkedin.com/in/gabriellopees
 [facebook]: https://www.facebook.com/gabrielloppees/
