@@ -35,6 +35,14 @@
 
 [<img align="left" alt="Github Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-github-32.png" />][github]
 
+
+[<img align="left" alt="Mysql Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-mysql-logo-48.png" />][github]
+
+[<img align="left" alt="PostgreSQL Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-postgresql-48.png" />][github]
+
+[<img align="left" alt="Mysql Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-mysql-logo-48.png" />][github]
+
+
 <br />
 <br />
 
