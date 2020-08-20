@@ -2,8 +2,8 @@
 
 ## I'm a Software Developer based in São Paulo!
 
-- 🌱 I’m currently learning JavaScript and ReactJS 🤣
-- ⚡ Fun fact: I love to play Saxophone, Bass and Guitar
+- 🌱 I’m currently learning JavaScript and ReactJS
+- ⚡ Fun fact: I love Videogames, Dogs and Music
 
 <!-- ### Deezer Playing 🎧
 
