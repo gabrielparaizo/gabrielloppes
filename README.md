@@ -12,14 +12,14 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="Github Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-github.svg" />][github]
 [<img align="left" alt="Linkedin Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-linkedin-2.svg" />][linkedin]
 
 <br />
 
-## Languages and Tools:
+### Languages and Tools:
 
 
 [github]: https://github.com/gabrielloppes
