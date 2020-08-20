@@ -17,4 +17,4 @@
 [<img align="left" alt="Github Icon" width="22px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-github-2-42.png" />][github]
 
 
-[github]: https://codeSTACKr.com
+[github]: https://github.com/gabrielloppes
