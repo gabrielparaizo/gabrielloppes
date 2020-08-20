@@ -19,29 +19,25 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="VSCode Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-visual-studio-code-2019-48.png" />][github]
+[<img align="left" alt="VSCode Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-visual-studio-code-2019-48.png" />][github]
 
-[<img align="left" alt="HTML5 Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-html-5-48.png" />][github]
+[<img align="left" alt="HTML5 Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-html-5-48.png" />][github]
 
-[<img align="left" alt="CSS3 Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-css3-48.png" />][github]
+[<img align="left" alt="CSS3 Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-css3-48.png" />][github]
 
-[<img align="left" alt="Javascript Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-javascript-48.png" />][github]
+[<img align="left" alt="Javascript Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-javascript-48.png" />][github]
 
-[<img align="left" alt="React Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-react-native-48.png" />][github]
+[<img align="left" alt="React Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-react-native-48.png" />][github]
 
-[<img align="left" alt="Ruby Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-ruby-programming-language-48.png" />][github]
+[<img align="left" alt="Ruby Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-ruby-programming-language-48.png" />][github]
 
-[<img align="left" alt="Git Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-git-48.png" />][github]
+[<img align="left" alt="Git Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-git-48.png" />][github]
 
-[<img align="left" alt="Github Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-github-32.png" />][github]
+[<img align="left" alt="Github Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-github-32.png" />][github]
 
+[<img align="left" alt="Mysql Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-mysql-logo-48.png" />][github]
 
-[<img align="left" alt="Mysql Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-mysql-logo-48.png" />][github]
-
-[<img align="left" alt="PostgreSQL Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-postgresql-48.png" />][github]
-
-[<img align="left" alt="Mysql Icon" width="30px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-mysql-logo-48.png" />][github]
-
+[<img align="left" alt="PostgreSQL Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-postgresql-48.png" />][github]
 
 <br />
 <br />
