@@ -43,7 +43,7 @@
 <br />
 
 ---
-Check some numbers:
+### Check some numbers:
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&theme=vue-dark">
 
 [linkedin]: https://linkedin.com/in/gabriellopees
