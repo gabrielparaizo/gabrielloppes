@@ -29,7 +29,11 @@
 
 [<img align="left" alt="React Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-react-native-48.png" />][github]
 
-[<img align="left" alt="VSCode Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-ruby-programming-language-48.png" />][github]
+[<img align="left" alt="Ruby Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-ruby-programming-language-48.png" />][github]
+
+[<img align="left" alt="Git Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-git-48.png" />][github]
+
+[<img align="left" alt="Github Icon" width="26px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-github-32.png" />][github]
 
 <br />
 <br />
