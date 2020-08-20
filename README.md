@@ -56,7 +56,7 @@
 
 ### Top Languages:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielloppes">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielloppes&hide=HTML">
 
 [linkedin]: https://linkedin.com/in/gabriellopees
 [facebook]: https://www.facebook.com/gabrielloppees/
