@@ -14,5 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Github Icon" width="22px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-github-2-42.png" />]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+[<img align="left" alt="Github Icon" width="22px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-github-2-42.png" />][github]
+
+
+[github]: https://codeSTACKr.com
