@@ -2,8 +2,8 @@
 
 ## I'm a Software Developer based in São Paulo!
 
-- 🌱 I’m currently learning JavaScript and ReactJS 🤣
-- ⚡ Fun fact: I love to play Saxophone, Bass and Guitar
+- 🌱 I’m currently learning JavaScript and ReactJS
+- ⚡ Fun fact: I love Videogames, Dogs and Music
 
 <!-- ### Deezer Playing 🎧
 
@@ -43,8 +43,8 @@
 <br />
 
 ---
-
-<img align="left" alt="Gabriel Lopes's Github Stats" src="(https://github-readme-stats.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true" />
+### Check some numbers:
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&theme=vue-dark">
 
 [linkedin]: https://linkedin.com/in/gabriellopees
 [facebook]: https://www.facebook.com/gabrielloppees/
