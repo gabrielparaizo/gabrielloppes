@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin Icon" width="24px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-linkedin-2.svg" />][linkedin]
+[<img align="left" alt="Linkedin Icon" width="25px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-linkedin-2.svg" />][linkedin]
 [<img align="left" alt="Facebook Icon" width="24px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-facebook-f.svg" />][facebook]
 [<img align="left" alt="Instagram Icon" width="24px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-instagram.svg" />][instagram]
 
