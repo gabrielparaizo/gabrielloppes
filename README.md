@@ -19,6 +19,8 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="VSCode Icon" width="22px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-visual-studio-code-2019-48.png" />]
+
 <br />
 <br />
 
