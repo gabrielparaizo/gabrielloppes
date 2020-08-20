@@ -39,11 +39,15 @@
 
 [<img align="left" alt="PostgreSQL Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-postgresql-48.png" />][github]
 
+[<img align="left" alt="Terminal Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-console-48.png" />][github]
+
 <br />
 <br />
 
 ---
+
 ### Check some numbers:
+
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&theme=vue-dark">
 
 [linkedin]: https://linkedin.com/in/gabriellopees
