@@ -44,7 +44,7 @@
 
 ---
 ### Check some numbers:
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&theme=vue-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&theme=nightowl">
 
 [linkedin]: https://linkedin.com/in/gabriellopees
 [facebook]: https://www.facebook.com/gabrielloppees/
