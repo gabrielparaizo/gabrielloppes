@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Github Icon" width="28px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-github.svg" />][github]
-[<img align="left" alt="Linkedin Icon" width="28px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-linkedin-2.svg" />][linkedin]
+[<img align="left" alt="Github Icon" width="42px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-github.svg" />][github]
+[<img align="left" alt="Linkedin Icon" width="42px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-linkedin-2.svg" />][linkedin]
 
 
 [github]: https://github.com/gabrielloppes
