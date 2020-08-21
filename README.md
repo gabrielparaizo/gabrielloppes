@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning JavaScript and ReactJS
 - ⚡ Fun fact: I love Videogames, Dogs and Music
 
-
 ### Get in touch:
 
 [<img align="left" alt="Linkedin Icon" width="22px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-linkedin-48.png" />][linkedin]
@@ -41,10 +40,11 @@
 
 [<img align="left" alt="Terminal Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-console-48.png" />][github]
 
+<br />
 
 ### Some Stats:
 
-<img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&theme=vue-dark">
+<img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight">
 
 ### Top Languages:
 
