@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning JavaScript and ReactJS
 - ⚡ Fun fact: I love Videogames, Dogs and Music
 
-<!-- ### Deezer Playing 🎧
 
 ### Get in touch:
 
