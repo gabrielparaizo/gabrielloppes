@@ -48,7 +48,7 @@
 
 ### Top Languages:
 
-<img src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&hide=HTML">
+<img src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&theme=tokyonight&hide=HTML">
 
 [linkedin]: https://linkedin.com/in/gabriellopees
 [facebook]: https://www.facebook.com/gabrielloppees/
