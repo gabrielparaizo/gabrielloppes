@@ -2,6 +2,7 @@
 
 ## I'm a Software Developer based in São Paulo!
 
+- 👨‍💻 I'm currently working on Fullstack Projects
 - 🌱 I’m currently learning JavaScript and ReactJS
 - ⚡ Fun fact: I love Videogames, Dogs and Music
 
@@ -48,15 +49,11 @@
 
 ### Some Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&theme=vue-dark">
-
-<br />
-
----
+<img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&theme=vue-dark">
 
 ### Top Languages:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielloppes&hide=HTML">
+<img src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&hide=HTML">
 
 [linkedin]: https://linkedin.com/in/gabriellopees
 [facebook]: https://www.facebook.com/gabrielloppees/
