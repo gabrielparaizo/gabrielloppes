@@ -52,6 +52,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&theme=vue-dark">
 
+<br />
+
 ### Top Languages:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielloppes&layout=compact&hide=HTML">
