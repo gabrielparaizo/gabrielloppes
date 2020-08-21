@@ -7,12 +7,12 @@
 
 <!-- ### Deezer Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
-
 ### Get in touch:
 
 [<img align="left" alt="Linkedin Icon" width="22px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-linkedin-48.png" />][linkedin]
+
 [<img align="left" alt="Facebook Icon" width="22px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-facebook-24.png" />][facebook]
+
 [<img align="left" alt="Instagram Icon" width="22px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-instagram-26.png" />][instagram]
 
 <br />
