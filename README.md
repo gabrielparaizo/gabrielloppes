@@ -48,17 +48,50 @@
 
 ---
 
+### Languages & Tools:
+
+[<img align="left" alt="VSCode Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-visual-studio-code-2019-48.png" />][github]
+
+[<img align="left" alt="HTML5 Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-html-5-48.png" />][github]
+
+[<img align="left" alt="CSS3 Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-css3-48.png" />][github]
+
+[<img align="left" alt="Javascript Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-javascript-48.png" />][github]
+
+[<img align="left" alt="React Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-react-native-48.png" />][github]
+
+[<img align="left" alt="Ruby Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-ruby-programming-language-48.png" />][github]
+
+[<img align="left" alt="Git Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-git-48.png" />][github]
+
+[<img align="left" alt="Github Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-github-32.png" />][github]
+
+[<img align="left" alt="Mysql Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-mysql-logo-48.png" />][github]
+
+[<img align="left" alt="PostgreSQL Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-postgresql-48.png" />][github]
+
+[<img align="left" alt="Terminal Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-console-48.png" />][github]
+
+<br />
+<br />
+
+---
+
 ### Some Stats:
 
-<img src="https://github-readme-stats.gabrielloppes.vercel.app
-/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&theme=vue-dark">
+
+<br />
+
+---
 
 ### Top Languages:
 
-<img src="https://github-readme-stats.gabrielloppes.vercel.app
-/api/top-langs/?username=gabrielloppes&layout=compact&hide=HTML">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielloppes&hide=HTML">
 
 [linkedin]: https://linkedin.com/in/gabriellopees
 [facebook]: https://www.facebook.com/gabrielloppees/
 [instagram]: https://www.instagram.com/eugabrielloppes/
 [github]: https://www.github.com/gabriellopees
+
+51bc952143e94334bd19933f3e8c8ab9a9bea987
