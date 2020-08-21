@@ -18,8 +18,6 @@
 
 <br />
 
----
-
 ### Languages & Tools:
 
 [<img align="left" alt="VSCode Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-visual-studio-code-2019-48.png" />][github]
@@ -45,8 +43,6 @@
 [<img align="left" alt="Terminal Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-console-48.png" />][github]
 
 <br />
-
----
 
 ### Some Stats:
 
