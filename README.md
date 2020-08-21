@@ -41,6 +41,7 @@
 [<img align="left" alt="Terminal Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-console-48.png" />][github]
 
 <br />
+<br />
 
 ### Some Stats:
 
