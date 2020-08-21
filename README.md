@@ -43,7 +43,7 @@
 <br />
 <br />
 
-### Some Stats:
+### Stats:
 
 <img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=buefy">
 
