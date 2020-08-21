@@ -41,14 +41,15 @@
 [<img align="left" alt="Terminal Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/languages-icons/icons8-console-48.png" />][github]
 
 <br />
+<br />
 
 ### Some Stats:
 
-<img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight">
+<img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark">
 
 ### Top Languages:
 
-<img src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&theme=tokyonight&hide=HTML">
+<img align="left" src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&theme=vue-dark&layout=compact&hide=HTML">
 
 [linkedin]: https://linkedin.com/in/gabriellopees
 [facebook]: https://www.facebook.com/gabrielloppees/
