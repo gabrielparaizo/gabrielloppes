@@ -49,7 +49,7 @@
 
 ### Top Languages:
 
-<img src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&theme=vue&layout=compact&hide=HTML">
+<img src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&theme=vue&layout=compact&hide=HTML&hide_border=true">
 
 [linkedin]: https://linkedin.com/in/gabriellopees
 [facebook]: https://www.facebook.com/gabrielloppees/
