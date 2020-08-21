@@ -1,5 +1,8 @@
 ### Hello There, i'm Gabriel 👋
 
+[<img align="left" alt="Linkedin Icon" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/banner/Desktop%20-%201.png" />][Github]
+<br />
+
 ## I'm a Software Developer based in São Paulo!
 
 - 👨‍💻 I'm currently working on Fullstack Projects
