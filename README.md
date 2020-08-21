@@ -54,8 +54,6 @@
 
 <br />
 
----
-
 ### Top Languages:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielloppes&layout=compact&hide=HTML">
