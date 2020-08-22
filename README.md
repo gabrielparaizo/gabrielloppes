@@ -9,7 +9,7 @@
 -  🌱 I’m currently learning JavaScript and ReactJS
 - ⚡ Fun fact: I love Videogames, Dogs and Music
 
-### Get in touch:
+### Contact:
 
 [<img align="left" alt="Linkedin Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-linkedin-48-colo.png" />][linkedin]
 
