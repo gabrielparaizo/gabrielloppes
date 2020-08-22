@@ -11,11 +11,11 @@
 
 ### Get in touch:
 
-[<img align="left" alt="Linkedin Icon" width="22px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-linkedin-48-colo.png" />][linkedin]
+[<img align="left" alt="Linkedin Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-linkedin-48-colo.png" />][linkedin]
 
-[<img align="left" alt="Facebook Icon" width="22px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-facebook-48.png" />][facebook]
+[<img align="left" alt="Facebook Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-facebook-48.png" />][facebook]
 
-[<img align="left" alt="Instagram Icon" width="22px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-instagram-48.png" />][instagram]
+[<img align="left" alt="Instagram Icon" width="32px" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/icons/icons8-instagram-48.png" />][instagram]
 
 <br />
 
