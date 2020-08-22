@@ -1,10 +1,9 @@
 <img alt="banner" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/banner/Desktop%20-%201.png" />
-
 <br />
 
-### Hello There, i'm Gabriel 👋
+## Hello There, i'm Gabriel 👋
 
-## I'm a Software Developer based in São Paulo!
+### I'm a Software Developer based in São Paulo!
 
 - 👨‍💻 I'm currently working on Fullstack Projects
 - 🌱 I’m currently learning JavaScript and ReactJS
