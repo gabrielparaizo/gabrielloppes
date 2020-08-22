@@ -6,7 +6,7 @@
 ### I'm a Software Developer based in São Paulo!
 
 - 👨‍💻 I'm currently working on Fullstack Projects
-- 🌱 I’m currently learning JavaScript and ReactJS
+-  🌱 I’m currently learning JavaScript and ReactJS
 - ⚡ Fun fact: I love Videogames, Dogs and Music
 
 ### Get in touch:
