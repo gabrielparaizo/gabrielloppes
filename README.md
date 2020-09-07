@@ -1,4 +1,7 @@
+<!--
 <img alt="banner" src="https://github.com/gabrielloppes/gabrielloppes/blob/master/assets/banner/Desktop%20-%201.png" />
+-->
+
 <br />
 
 ## Hello There, i'm Gabriel 👋
