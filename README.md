@@ -6,8 +6,8 @@
 
 ### Some stats:
 
-<img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=tokyonight">
+<img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=false&count_private=true&include_all_commits=true">
 
 ### Languages:
 
-<img align="left" src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&theme=tokyonight&layout=compact&hide=HTML">
+<img align="left" src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&hide=HTML">
