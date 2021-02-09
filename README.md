@@ -7,7 +7,6 @@ I love Photography, Cinema, Music and Dogs
   What i'm focusing on 📝
 </h3>
 
-Working with Ruby, Ruby on Rails, JavaScript, ReactJS and NextJS<br>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
