@@ -8,7 +8,6 @@ I love Photography, Cinema, Music and Dogs
 </h3>
 
 Working with Ruby, Ruby on Rails, JavaScript, ReactJS and NextJS<br>
-<br>
 
 <h3 style="font-weight: bold">
   Find me around there 🌎
