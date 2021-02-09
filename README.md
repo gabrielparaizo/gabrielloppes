@@ -9,7 +9,6 @@ Software Developer based in São Paulo 🇧🇷<br>
 Working with Ruby, Ruby on Rails, JavaScript, ReactJS and NextJS<br>
 I love Photography, Cinema, Music and Dogs
 <br>
-<br>
 
 <h3 style="font-weight: bold">
   Find me around there 🌎<br>
