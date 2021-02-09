@@ -4,7 +4,7 @@
 Software Developer based in São Paulo 🇧🇷<br>
 I love Photography, Cinema, Music and Dogs
 <h3 style="font-weight:600">
-  What i'm focusing on 📝
+  Coding skills 📝
 </h3>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +19,7 @@ I love Photography, Cinema, Music and Dogs
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 <h3 style="font-weight: bold">
-  Find me around there 🌎
+  Contact me 🌎
 </h3>
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/gabriellopees/)
