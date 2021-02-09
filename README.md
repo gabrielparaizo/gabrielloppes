@@ -1,8 +1,13 @@
-## Hello, i'm Gabriel 👋
+<h1 align="left">
+  <div style="font-weight: bold;">
+    Hey, i'm Gabriel Lopes
+  </div>
+</h1>
 
-- Software Developer based in São Paulo 🇧🇷
-- Working with Ruby, Ruby on Rails, JavaScript, ReactJS and NextJS
-- I love Photography, Cinema, Music and Dogs
+## What i'm focusing on
+Software Developer based in São Paulo 🇧🇷<br>
+Working with Ruby, Ruby on Rails, JavaScript, ReactJS and NextJS<br>
+I love Photography, Cinema, Music and Dogs
 
 <img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight">
 
