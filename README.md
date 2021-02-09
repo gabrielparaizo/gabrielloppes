@@ -11,8 +11,7 @@ I love Photography, Cinema, Music and Dogs
 <br>
 
 <h3 style="font-weight: bold">
-  Find me around there 🌎
-  <br>
+  Find me around there 🌎<br><br>
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/gabriellopees/)
   
