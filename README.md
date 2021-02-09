@@ -1,7 +1,5 @@
 <h2 align="left" style="font-weight:bold;">👋 Hi, I'm Gabriel Lopes</h2>
 
-<br/>
-
 <h3 align="left">Communicative, sociable, open-minded and creative Developer, i'm a code lover, passionate about creating software, solve problems and help people.</h3>
 
 <br/>
