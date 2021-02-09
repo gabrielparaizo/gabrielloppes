@@ -12,7 +12,8 @@ I love Photography, Cinema, Music and Dogs
 
 <h3 style="font-weight: bold">
   Find me around there 🌎<br>
-  ff
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/gabriellopees/)
 </h3>
 
 <img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight">
