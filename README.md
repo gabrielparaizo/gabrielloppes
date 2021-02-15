@@ -34,7 +34,6 @@ Communicative, sociable, open-minded and creative Developer, i'm a code lover, p
 </h3>
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/gabriellopees/)
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eugabrielloppees/)
  
  <h3 style="font-weight: bold">
   Some numbers 💯
