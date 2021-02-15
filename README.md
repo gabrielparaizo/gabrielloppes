@@ -34,7 +34,7 @@ Communicative, sociable, open-minded and creative Developer, i'm a code lover, p
 </h3>
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/gabriellopees/)
- [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](gabriellopees@hotmail.com)
+ [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabriellopees@hotmail.com)
  <h3 style="font-weight: bold">
   Some numbers 💯
 </h3>
