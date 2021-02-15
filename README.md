@@ -11,7 +11,7 @@ Communicative, sociable, open-minded and creative Developer, i'm a code lover, p
 
 📫 How to reach me **gabriellopees@hotmail.com**
 
-⚡ Fun fact **I like dogs, music and cinema**
+⚡ Fun fact **I play bass, guitar and saxophone**
 
 
 <h3 style="font-weight:600">
