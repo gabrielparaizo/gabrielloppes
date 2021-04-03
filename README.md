@@ -1,17 +1,15 @@
-<h2 style="font-weight:bold;">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, i'm Gabriel Lopes!
-</h2>
+## Hu There, i'm Gabriel 👋🏿
 
-Communicative, sociable, open-minded and creative Developer, i'm a code lover, passionate about creating software, solve problems and help people.
+I'm a communicative, sociable, open-minded and creative software developer, I'm passionate about creating software, solving problems and help people!
 
 
 🌱 I’m currently learning **NextJS, ReactJS, React Native**
 
 💬 Ask me about **JavaScript, NodeJS, MongoDB**
 
-📫 How to reach me **gabriellopees@hotmail.com**
+📫 Reach me at gabriellopees@hotmail.com
 
-⚡ Fun fact **I play bass, guitar and saxophone**
+⚡ Fun fact **I play bass, guitar and saxophone, also love dogs**
 
 
 <h3 style="font-weight:600">
