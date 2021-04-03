@@ -1,4 +1,4 @@
-## Hu There, i'm Gabriel 👋🏿
+## Hi There, i'm Gabriel 👋🏿
 
 I'm a communicative, sociable, open-minded and creative software developer, I'm passionate about creating software, solving problems and help people!
 
