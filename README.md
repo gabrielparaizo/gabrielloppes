@@ -16,9 +16,9 @@ I'm a communicative, sociable, open-minded and creative software developer, I'm 
   Coding skills 📝
 </h3>
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Javascript](https://github.com/gabrielloppes/icons/blob/main/javascript128.png)
+![ReactJS](https://github.com/gabrielloppes/icons/blob/main/react128.png)
+![NodeJS](https://github.com/gabrielloppes/icons/blob/main/node128.png)
 ![MongoDB](https://github.com/gabrielloppes/icons/blob/main/1888890291551942128-128.png)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)<br>
 
