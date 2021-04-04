@@ -17,15 +17,15 @@ I'm a communicative, sociable, open-minded and creative software developer, I'm 
 </h3>
 
 ![Javascript](https://github.com/gabrielloppes/icons/blob/main/javascript128.png)
-![ReactJS](https://github.com/gabrielloppes/icons/blob/main/react128.png)
-![NodeJS](https://github.com/gabrielloppes/icons/blob/main/node128.png)
+![ReactJS](https://github.com/gabrielloppes/icons/blob/main/react64.png)
+![NodeJS](https://github.com/gabrielloppes/icons/blob/main/node64.png)
 ![MongoDB](https://github.com/gabrielloppes/icons/blob/main/1888890291551942128-128.png)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)<br>
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://github.com/gabrielloppes/icons/blob/main/mysql64.png)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Heroku](https://github.com/gabrielloppes/icons/blob/main/heroku64.png)
 
 <h3 style="font-weight: bold">
   Contact me 🌎
