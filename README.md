@@ -19,6 +19,7 @@ I'm a communicative, sociable, open-minded and creative software developer, I'm 
 [<img align="left" alt="JavaScript Logo" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/javascript128.png" />][gabriel]
 [<img align="left" alt="React Logo" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/react128.png" />][gabriel]
 [<img align="left" alt="Node Logo" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/node128.png" />][gabriel]
+[<img align="left" alt="MongoDB Logo" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/1888890291551942128-128.png" />][gabriel]
 [<img align="left" alt="NextJS Logo" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/next128.png" />][gabriel]
 
 <h3 style="font-weight: bold">
