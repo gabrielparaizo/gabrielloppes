@@ -20,8 +20,7 @@ I'm a communicative, sociable, open-minded and creative software developer, I'm 
 ![ReactJS](https://github.com/gabrielloppes/icons/blob/main/react64.png)
 ![NodeJS](https://github.com/gabrielloppes/icons/blob/main/node64.png)
 ![MongoDB](https://github.com/gabrielloppes/icons/blob/main/1888890291551942128-128.png)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)<br>
-
+![NextJs](https://github.com/gabrielloppes/icons/blob/main/nextjs64.png)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![MySQL](https://github.com/gabrielloppes/icons/blob/main/mysql64.png)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
