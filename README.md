@@ -16,15 +16,10 @@ I'm a communicative, sociable, open-minded and creative software developer, I'm 
   Coding skills 📝
 </h3>
 
-![Javascript](https://github.com/gabrielloppes/icons/blob/main/javascript128.png)
-![ReactJS](https://github.com/gabrielloppes/icons/blob/main/react64.png)
-![NodeJS](https://github.com/gabrielloppes/icons/blob/main/node64.png)
-![MongoDB](https://github.com/gabrielloppes/icons/blob/main/1888890291551942128-128.png)
-![NextJs](https://github.com/gabrielloppes/icons/blob/main/nextjs64.png)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![MySQL](https://github.com/gabrielloppes/icons/blob/main/mysql64.png)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Heroku](https://github.com/gabrielloppes/icons/blob/main/heroku64.png)
+[<img align="left" alt="JavaScript Logo" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/javascript128.png" />][gabriel]
+[<img align="left" alt="React Logo" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/react128.png" />][gabriel]
+[<img align="left" alt="Node Logo" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/node128.png" />][gabriel]
+[<img align="left" alt="NextJS Logo" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/next128.png" />][gabriel]
 
 <h3 style="font-weight: bold">
   Contact me 🌎
