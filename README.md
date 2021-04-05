@@ -11,22 +11,22 @@ I'm a communicative, sociable, open-minded and creative software developer, I'm 
 
 ⚡ Fun fact **I play bass, guitar and saxophone, also love dogs**
 
-
-
 ## **Skills & Tools** 📝
 
-[<img align="left" alt="JavaScript" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/JavaScript.png" />][gabrielstack]
-[<img align="left" alt="React" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/ReactJS.png" />][gabrielstack]
-[<img align="left" alt="Node" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/NodeJS.png" />][gabrielstack]
-[<img align="left" alt="MongoDB" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/MongoDB.png" />][gabrielstack]
-[<img align="left" alt="NextJS" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/NextJS.png" />][gabrielstack]
-[<img align="left" alt="Ruby" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/Ruby%20on%20Rails.png" />][gabrielstack]
-[<img align="left" alt="MySQL" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/MySQL.png" />][gabrielstack]
-[<img align="left" alt="Vercel" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/Vercel.png" />][gabrielstack]
-[<img align="left" alt="Heroku" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/Heroku.png" />][gabrielstack]
-[<img align="left" alt="Figma" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/Figma.png" />][gabrielstack]
-[<img align="left" alt="Linux" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/Linux.png" />][gabrielstack]
-[<img align="left" alt="Hyper" width="40px" src="https://github.com/gabrielloppes/icons/blob/main/HyperJS.png" />][gabrielstack]
+<img align="left" alt="JavaScript" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/JavaScript.png" />
+<img align="left" alt="React" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/ReactJS.png" />
+<img align="left" alt="Node" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/NodeJS.png" />
+<img align="left" alt="MongoDB" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/MongoDB.png" />
+<img align="left" alt="NextJS" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/NextJS.png" />
+<img align="left" alt="Ruby" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/Ruby%20on%20Rails.png" />
+<img align="left" alt="MySQL" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/MySQL.png" />
+<img align="left" alt="Vercel" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/Vercel.png" />
+<img align="left" alt="Heroku" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/Heroku.png" />
+<img align="left" alt="Figma" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/Figma.png" />
+<img align="left" alt="Linux" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/Linux.png" />
+<img align="left" alt="Hyper" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/HyperJS.png" />
+
+<br/>
 
 ## **Connect with me** 🌎
 
