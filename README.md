@@ -18,7 +18,7 @@ I'm a communicative, sociable, open-minded and creative software developer, I'm 
 
 <br/>
 
-## **Skills & Tools** 📝
+## **Tools and Technologies** 📝
 
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/JavaScript.png" />
 <img align="left" alt="React" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/ReactJS.png" />
