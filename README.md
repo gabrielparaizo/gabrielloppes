@@ -11,6 +11,13 @@ I'm a communicative, sociable, open-minded and creative software developer, I'm 
 
 ⚡ Fun fact **I play bass, guitar and saxophone, also love dogs**
 
+## **Connect with me** 🌎
+
+[<img align="left" alt="Linkedin" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/linkedin.png" />][linkedin]
+[<img align="left" alt="Email" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/outlook.png" />][email]
+
+<br/>
+
 ## **Skills & Tools** 📝
 
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/gabrielloppes/icons/blob/main/JavaScript.png" />
@@ -28,14 +35,12 @@ I'm a communicative, sociable, open-minded and creative software developer, I'm 
 
 <br/>
 
-## **Connect with me** 🌎
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge=LinkedinColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/gabriellopees/)
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge=microsoft-outlookColor=white)](mailto:gabriellopees@hotmail.com)
-
 ## **Stats** 🔥
  
 <img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=cobalt">
 
 <img align="left" src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&hide=HTML&hide_border=true&layout=compact&theme=cobalt">
+
+[linkedin]: https://linkedin.com/in/gabriellopees
+[email]: mailto:gabriellopees@hotmail.com
 
