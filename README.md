@@ -37,9 +37,9 @@ I'm a communicative, sociable, open-minded and creative software developer, I'm 
 
 ## **Stats** 🔥
  
-<img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=cobalt">
+<img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
 
-<img align="left" src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&hide=HTML&hide_border=true&layout=compact&theme=cobalt">
+<img align="left" src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&hide=HTML&hide_border=true&layout=compact">
 
 [linkedin]: https://linkedin.com/in/gabriellopees
 [email]: mailto:gabriellopees@hotmail.com
