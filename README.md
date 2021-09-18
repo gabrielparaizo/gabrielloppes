@@ -7,7 +7,7 @@ I'm a communicative, sociable, open-minded and creative software developer, I'm 
 ## **Connect with me** 🌎
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellopees/)
-[![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabriellopees@hotmail.com)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabriellopees@hotmail.com)
 
 
 ## **Programming Languages** :computer:
@@ -39,7 +39,4 @@ I'm a communicative, sociable, open-minded and creative software developer, I'm 
 <img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielloppes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
 
 <img align="left" src="https://github-readme-stats.gabrielloppes.vercel.app/api/top-langs/?username=gabrielloppes&hide=HTML&hide_border=true&layout=compact">
-
-<!-- [linkedin]: https://linkedin.com/in/gabriellopees
-[email]: mailto:gabriellopees@hotmail.com -->
 
