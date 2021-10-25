@@ -1,8 +1,12 @@
 # **Hi There, i'm Gabriel** 👋🏿
 
-I'm a communicative, sociable, open-minded and creative software developer, I'm passionate about creating software, solving problems and help people!
+Hi! I'm Gabriel! 🤝
+
+I'm a software engineer passionate about writing code, creating software, solving problems and positively impacting the world through technology.
 
 ⚡ Fun fact **I play bass, guitar and saxophone, also love dogs**
+
+![Followers](https://img.shields.io/github/followers/gabrielloppes?logo=github&style=for-the-badge)
 
 ## **Connect with me** 🌎
 
