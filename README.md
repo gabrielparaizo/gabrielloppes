@@ -1,7 +1,5 @@
 # **Hi There, i'm Gabriel** 👋🏿
 
-Hi! I'm Gabriel! 🤝
-
 I'm a software engineer passionate about writing code, creating software, solving problems and positively impacting the world through technology.
 
 ⚡ Fun fact **I play bass, guitar and saxophone, also love dogs**
