@@ -1,4 +1,4 @@
-# **Hi There*
+# **Hi There**
 
 I'm a software engineer passionate about writing code, creating software, solving problems and positively impacting the world through technology.
 
