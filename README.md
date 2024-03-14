@@ -36,10 +36,3 @@ I'm a software engineer passionate about writing code, creating software, solvin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-## **Stats** 🔥
- 
-<img src="https://github-readme-stats.gabrielloppes.vercel.app/api?username=gabrielparaizo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
-
-<img align="left" src="https://github-readme-stats.gabrielparaizo.vercel.app/api/top-langs/?username=gabrielparaizo&hide=HTML&hide_border=true&layout=compact">
-
